@@ -1,0 +1,3 @@
+[submodule "skytap-webhook-node-simple"]
+	path = skytap-webhook-node-simple
+	url = https://github.com/rralstonskytap/skytap-webhook-node-simple.git
